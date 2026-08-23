@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ArchitectureDistribué</string>
+    <string name="app_name">Distributed Music Player</string>
+    <string name="voice_command">Commande vocale</string>
+    <string name="previous">Précédent</string>
+    <string name="next">Suivant</string>
+    <string name="play_pause">Lecture ou pause</string>
+    <string name="microphone">Microphone</string>
 </resources>
